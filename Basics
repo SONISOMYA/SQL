@@ -7,3 +7,16 @@ Why do we use databases?
 2. features like security , scalability
 3. Easier to insert, update or delete the data
 
+
+SQL  V/S NoSQL Databases
+
+SQL : Relational Database i.e it stores data in form of tables  , Eg : MySQL , Oracle
+NoSQL : Non Relational DB i.e. data is storeed in the form of Doc or Key-val pair or Graphs etc.  , Eg: MongoDB. 
+
+SQL-> It is a programming lang used to interact with relational Database.
+
+TABLE in SQL
+Columns -> design or SCHEMA 
+Rows -> Tuples
+
+
