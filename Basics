@@ -19,5 +19,13 @@ TABLE in SQL
 Columns -> design or SCHEMA 
 Rows -> Tuples
 
-Lets Create  a DATABASE  , for it you will need to 
+Lets Create  a DATABASE  , for it you will need to install MySQL into your Pc ( after it downloading MySQL workbench is recommended) 
+1) CREATE DATABASE db_name
+2) USE db_name
+
+Query to create a TABLE in you DB
+CREATE TABLE table_name(
+column_name1 datatype constraint,
+column_name2 datatype constraint;
+)
 
