@@ -1,4 +1,4 @@
-#  SQL
+# DBMS AND SQL 
 
 Hello ji! 
 Kese ho??
