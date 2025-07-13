@@ -1,0 +1,5 @@
+1. UPPER(A)   //Where A is a Stirng --> used to convert string into Uppercase
+2. LOWER(A)   --> Used to convert string into Lowercase
+3. SUBSTR(A,index,length)  // where A is string, index is 1 based and is used to point out  from which index do you want the string to be in upper slash lower case, length is upto how many characters you want the function to be implemented, if left blank it will take the complete string length.
+  example:SUBSTR('HELLO', 2, 3) → 'ELL'
+4. CONCAT -> used to concatinate stings
